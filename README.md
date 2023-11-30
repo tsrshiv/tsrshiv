@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently improving **Data Structure and Algorithms and Web Development**
 
-- 2 [ToDo Backend Project](https://github.com/tsrshiv/ToDo-Backend)
+- 🔭 My project's are [ToDo Backend Project](https://github.com/tsrshiv/ToDo-Backend)
 
-- 3 [Apnakisan](https://frontend-apnakisan.vercel.app/index.html#new-arrivals)
+- 🔭 My project's are [Apnakisan](https://frontend-apnakisan.vercel.app/index.html#new-arrivals)
 
 - 💬 Ask me about **Data Structure and Algorithms, Competitive Programming and Web Development**
 
