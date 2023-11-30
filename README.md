@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivendra Singh Verma</h1>
-<h3 align="center">A passionate Mern developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate Full Stack developer and Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsrshiv&label=Profile%20views&color=0e75b6&style=flat" alt="tsrshiv" /> </p>
 
-- 🔭 My project's are [apnaKISAN](https://frontend-apnakisan.vercel.app/index.html#new-arrivals)
+- 🔭 My project's are [Desibazaar](https://desi-bazzaar.vercel.app/)
 
 - 🌱 I’m currently improving **Data Structure and Algorithms and Web Development**
+
+- 2 [ToDo Backend Project](https://github.com/tsrshiv/ToDo-Backend)
+
+- 3 [Apnakisan](https://frontend-apnakisan.vercel.app/index.html#new-arrivals)
 
 - 💬 Ask me about **Data Structure and Algorithms, Competitive Programming and Web Development**
 
